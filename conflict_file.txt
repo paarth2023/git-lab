@@ -1,1 +1,3 @@
+Initial line of text
 Content from branch A
+Content from branch B
